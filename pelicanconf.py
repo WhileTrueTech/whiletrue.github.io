@@ -1,8 +1,9 @@
 AUTHOR = 'whiletrue'
 SITENAME = 'whiletrue'
-SITEURL = ""
+SITEURL = "www.whiletrue.se"
 
 PATH = "content"
+OUTPUT_PATH = 'docs/'
 
 TIMEZONE = 'Europe/Rome'
 
